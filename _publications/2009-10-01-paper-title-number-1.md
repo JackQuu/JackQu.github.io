@@ -10,4 +10,4 @@ citation: 'Xinhao Qu, Wei Zhong. (2024). Xiamen University master graduation the
 ---
 This article considers framework of linear regression with high-dimensional confounding, implementing Partial Transfer Learning (PTL) method for source detection and causal/structural parameters’ estimation issue through either homogeneous or heterogeneous source transferring, asymptotics is derived and simulation reveals detection efficiency and the enhanced performance of PTL estimators. Empirical research also demonstrates PTL’s well-application particularly in biological data.
 
-[Download paper here](.../files/PTL.pdf)
+[Download paper here](https://jackquu.github.io/JackQu.github.io/files/PTL.pdf)
