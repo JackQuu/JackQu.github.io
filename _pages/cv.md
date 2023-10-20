@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economic Statistics, Zhengzhou University, 2021
+* M.S. in Mathematical Statistics, Xiamen University, 2024 (expected)
+* Ph.D in Statistics (looking forward)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2022-: Research Assistant
+  * Xiamen University
+  * Statistical Transfer Learning for High-dimensional Data
+  * Supervisor: Prof. Wei Zhong, Prof. Xingbai Xu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2019-Jun 2021: Research Assistant
+  * Zhengzhou University
+  * Statistical Inference of Spatial Quantile Regression Model for High-dimensional Data
+  * Supervisor: Prof. Yanan Hu
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2nd ‘MEITUAN’ National Business Analysis Elite Competition (22/1296, Top 2%)
+* Second place of 16th National Challenge Cup Competition (Top 1‰)
+* ZZU Graduation Highlight
+* ZZU First-class Scholarship (2018&2020)
+* Zhong’ An Cotton Scholarship (2019)
 
 Publications
 ======
