@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Data Science"
+title: "TA: Introduction to Data Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
