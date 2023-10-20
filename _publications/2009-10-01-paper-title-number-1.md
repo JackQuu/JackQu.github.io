@@ -6,7 +6,7 @@ excerpt: 'This article considers framework of linear regression with high-dimens
 date: 2024-6-30
 venue: 'Xiamen University master graduation thesis (expect)'
 paperurl: '.../files/PTL.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Xinhao Qu, Wei Zhong. (2024). Xiamen University master graduation thesis.'
 ---
 This article considers framework of linear regression with high-dimensional confounding, implementing Partial Transfer Learning (PTL) method for source detection and causal/structural parameters’ estimation issue through either homogeneous or heterogeneous source transferring, asymptotics is derived and simulation reveals detection efficiency and the enhanced performance of PTL estimators. Empirical research also demonstrates PTL’s well-application particularly in biological data.
 
