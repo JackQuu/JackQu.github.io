@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Jul 2022-: Research Assistant
+* Jul 2022-present: Research Assistant
   * Xiamen University
   * Statistical Transfer Learning for High-dimensional Data
   * Supervisor: [Prof. Wei Zhong](https://scholar.google.com/citations?hl=zh-EN&user=TZE0kMAAAAAJ), [Prof. Xingbai Xu](https://se.xmu.edu.cn/english/info/1192/4406.htm)
