@@ -54,3 +54,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skill&Interest
+======
+Programming Language: R, Python, LaTeX
+Research Interest: High-Dimensional Statistics; Transfer Learning; Causal Inference; Reinforcement Learning; Differential Privacy
+Language: Mandarin (Native), English (Fluent)
+Hobby: Basketball, Guitar, Piano
