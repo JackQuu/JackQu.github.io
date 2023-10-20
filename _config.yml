@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jack Qu / Homepage"
+title                    : "Xinhao Qu / Homepage"
 title_separator          : "-"
-name                     : &name "Jack Qu"
+name                     : &name "Xinhao Qu"
 description              : &description "MS in mathematical statistics"
 url                      : https://jackquu.github.io/JackQu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jack Qu"
+  name             : "Xinhao Qu"
   avatar           : "milkdraw.png"
   bio              : "Xiamen University"
   location         : "Xiamen China"
