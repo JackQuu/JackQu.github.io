@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Department of Statistics and Data Science](https://eecs.pku.edu.cn/), [Xiamen University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year postgraduate student from [Department of Statistics and Data Science](https://stats.xmu.edu.cn/), [Xiamen University](https://en.xmu.edu.cn/main.htm). My research interest includes High-Dimensional Data Analysis, Statistical Machine Learning and Causal Inference.
 
-I am very fortunate to be advised by [Prof. Wei Zhong](https://scholar.google.com/citations?hl=zh-CN&user=TZE0kMAAAAAJ) .
+I am very fortunate to be advised by [Prof. Wei Zhong](https://scholar.google.com/citations?hl=zh-CN&user=TZE0kMAAAAAJ).
 
 You can find my CV here: [JackQu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
