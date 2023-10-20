@@ -17,12 +17,16 @@ Education
 
 Work experience
 ======
-* Sep 2022-: Research Assistant
+* Jul 2022-: Research Assistant
   * Xiamen University
   * Statistical Transfer Learning for High-dimensional Data
   * Supervisor: Prof. Wei Zhong, Prof. Xingbai Xu
+ 
+* Sep 2021-Jun 2022: Leader of Machine Learning Group
+  * WISERCLUB, Xiamen University
+  * ML Theory and Causal Inference
 
-* Sep 2019-Jun 2021: Research Assistant
+* Sep 2019-Aug 2021: Research Assistant
   * Zhengzhou University
   * Statistical Inference of Spatial Quantile Regression Model for High-dimensional Data
   * Supervisor: Prof. Yanan Hu
@@ -34,6 +38,7 @@ Awards
 * ZZU Graduation Highlight
 * ZZU First-class Scholarship (2018&2020)
 * Zhong’ An Cotton Scholarship (2019)
+* Second Place of Global Business Plan Competition (GBPC)
 
 Publications
 ======
