@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Partial Transfer Learning Under High-Dimensional Confounding"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'This article considers framework of linear regression with high-dimensional confounding, implementing Partial Transfer Learning (PTL) method for source detection and causal/structural parameters’ estimation issue through either homogeneous or heterogeneous source transferring, asymptotics is derived and simulation reveals detection efficiency and the enhanced performance of PTL estimators. Empirical research also demonstrates PTL’s well-application particularly in biological data.'
+date: 2023-10-01
+venue: 'Xiamen University's master graduation thesis (expected)'
+paperurl: '.../files/PTL.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This article considers framework of linear regression with high-dimensional confounding, implementing Partial Transfer Learning (PTL) method for source detection and causal/structural parameters’ estimation issue through either homogeneous or heterogeneous source transferring, asymptotics is derived and simulation reveals detection efficiency and the enhanced performance of PTL estimators. Empirical research also demonstrates PTL’s well-application particularly in biological data.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](.../files/PTL.pdf)
