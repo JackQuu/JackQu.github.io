@@ -6,5 +6,6 @@ excerpt: 'Through quantile regression, fruitions are brought to spatial models a
 date: 2023-01-13
 venue: 'Journal OF Applied Statistics and Management (数理统计与管理), submitted'
 ---
+
 Through quantile regression, fruitions are brought to spatial models as under the background of which, the conditional distribution of the response could be seen panoramically as well as the distinctive spatial effect at different quantile points, the whole process of modeling owns the benefit of robustness. As it's neither convex nor smoothed in loss function of the quantile, this article applies the approach of Inverse Quantile Regression~(IQR) within the occasions when there are high-dimensional covariates with sparse structure. Due to the contamination these redundant variables may bring to~$\rho$ , the spatial autoregressive coefficient that we are interested with, this article modifies the normal moment function to let it obey the Neyman orthogonality condition. Using Double/Debiased Machine Learning method~(DML) to select and estimate the redundant variables, then find the optimal~$\rho$ through grid search.
 
