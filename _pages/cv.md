@@ -20,7 +20,7 @@ Work experience
 * Jul 2022-present: Research Assistant
   * Xiamen University
   * Statistical Transfer Learning for High-dimensional Data
-  * Supervisor: [Prof. Wei Zhong](https://scholar.google.com/citations?hl=zh-EN&user=TZE0kMAAAAAJ), [Prof. Jingyuan Liu](https://se.xmu.edu.cn/english/info/1183/3976.htm), [Prof. Xingbai Xu](https://se.xmu.edu.cn/english/info/1192/4406.htm)
+  * Advisor: [Prof. Wei Zhong](https://scholar.google.com/citations?hl=zh-EN&user=TZE0kMAAAAAJ), [Prof. Jingyuan Liu](https://se.xmu.edu.cn/english/info/1183/3976.htm), [Prof. Xingbai Xu](https://se.xmu.edu.cn/english/info/1192/4406.htm)
  
 * Sep 2021-Jun 2022: Leader of Machine Learning Group
   * [WISERCLUB](https://github.com/wise-r), Xiamen University
@@ -29,7 +29,7 @@ Work experience
 * Sep 2019-Aug 2021: Research Assistant
   * Zhengzhou University
   * Statistical Inference of Spatial Quantile Regression Model for High-dimensional Data
-  * Supervisor: [Prof. Yanan Hu](https://kns.cnki.net/kcms2/author/detail?v=Mw9W0jY1lXCXzQQI6GKPakOnfloXNmcBGXF9_PbfFg4FjR9ZYt_gZRV-T6hRM39HdBCzXADwtJScripvfurNE9azQTyqdYcmdBq9J-LXOs-Ytf3kTZopiCIv64xDlGP4&uniplatform=NZKPT&language=CHS)
+  * Advisor: [Prof. Yanan Hu](https://kns.cnki.net/kcms2/author/detail?v=Mw9W0jY1lXCXzQQI6GKPakOnfloXNmcBGXF9_PbfFg4FjR9ZYt_gZRV-T6hRM39HdBCzXADwtJScripvfurNE9azQTyqdYcmdBq9J-LXOs-Ytf3kTZopiCIv64xDlGP4&uniplatform=NZKPT&language=CHS)
   
 Awards
 ======
