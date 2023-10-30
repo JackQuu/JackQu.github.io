@@ -20,7 +20,7 @@ Work experience
 * Jul 2022-present: Research Assistant
   * Xiamen University
   * Statistical Transfer Learning for High-dimensional Data
-  * Supervisor: [Prof. Wei Zhong](https://scholar.google.com/citations?hl=zh-EN&user=TZE0kMAAAAAJ), [Prof. Xingbai Xu](https://se.xmu.edu.cn/english/info/1192/4406.htm)
+  * Supervisor: [Prof. Wei Zhong](https://scholar.google.com/citations?hl=zh-EN&user=TZE0kMAAAAAJ), [Prof. Jingyuan Liu](https://se.xmu.edu.cn/english/info/1183/3976.htm), [Prof. Xingbai Xu](https://se.xmu.edu.cn/english/info/1192/4406.htm)
  
 * Sep 2021-Jun 2022: Leader of Machine Learning Group
   * [WISERCLUB](https://github.com/wise-r), Xiamen University
